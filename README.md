@@ -25,3 +25,7 @@ heroku container:release web -a hci-jupyter-notebooks
 heroku open -a hci-jupyter-notebooks 
 ```
 
+5. View The Logs
+```bash
+heroku logs --tail -a hci-jupyter-notebooks
+```
