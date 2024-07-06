@@ -1,0 +1,58 @@
+[
+  {
+    "content": "A language model that is used to generate the text for a jupyter notebook code cell, based only on the text of the markdown cell above it.",
+    "hci_attribute": "efficiency"
+  },
+  {
+    "content": "The ability to write markdown in a jupyter notebook cell, then write the corresponding code below the cell",
+    "hci_attribute": "efficiency"
+  },
+  {
+    "content": "Interactive tutorials and contextual help provided by the LLM to guide users through complex coding tasks",
+    "hci_attribute": "learnability"
+  },
+  {
+    "content": "Static documentation (i.e., a website) that provides the traditional jupyter notebooks documentation",
+    "hci_attribute": "learnability"
+  },
+  {
+    "content": "The llm remembers user the user name, preferences, past queries, and provides personalized suggestions",
+    "hci_attribute": "personalization"
+  },
+  {
+    "content": "Standard jupyter notebook that does not remember user preferences or past queries",
+    "hci_attribute": "personalization"
+  },
+  {
+    "content": "Voice commands and natural language input, allowing the completion of tasks without typing",
+    "hci_attribute": "accessibility"
+  },
+  {
+    "content": "Only text-based input, requiring the user to type out all commands",
+    "hci_attribute": "accessibility"
+  },
+  {
+    "content": "The LLM provides a visual representation of the code that is generated, allowing users to see the code in a more intuitive way",
+    "hci_attribute": "usability"
+  },
+  {
+    "content": "The LLM only provides the code in text form, requiring users to interpret the code themselves",
+    "hci_attribute": "usability"
+  },
+  {
+    "content": "Near immediate, context-aware feedback and explanations from the LLM",
+    "hci_attribute": "feedback"
+  },
+  {
+    "content": "Basic feedback through output cells with error messages",
+    "hci_attribute": "feedback"
+  },
+  {
+    "content": "You can use the llm-powered jupyter notebook, but you need a modern computer (e.g., 16GB of RAM, 4-core CPU)",
+    "hci_attribute": "responsiveness"
+  },
+  {
+    "content": "You can use the llm-powered jupyter notebook on any computer, regardless of its specifications, but it requires internet connection, may be slower, and data will be accessed by the API provider",
+    "hci_attribute": "responsiveness"
+  }
+]

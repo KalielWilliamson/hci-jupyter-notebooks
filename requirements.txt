@@ -1,2 +1,5 @@
 streamlit
 requests
+boto3
+numpy
+python-dotenv
